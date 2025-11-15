@@ -125,8 +125,6 @@ body {
   border-radius: 20px;
   font-size: 14px;
 }
-
-@media (max-width: 600px) {
   .avatar {
     flex-direction: column;
     text-align: center;
